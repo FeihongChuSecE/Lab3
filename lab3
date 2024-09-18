@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab3-Blog</title>
+
+    <style>
+        h2 {
+            background-color: rgb(131, 198, 135);
+            color: blueviolet
+        }
+
+        button {
+            background-color: rgb(131, 198, 135);
+            color: blueviolet
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Post Details</h2>
+    <iframe> src="file:///C:/Users/fayec/OneDrive/Desktop/CPAN%20web%20dev/Lab/blog_post_form.htmll" width="600"
+        height="400"
+    </iframe>
+
+    <h2>Cat Information</h2>
+    <iframe> src="file:///C:/Users/fayec/OneDrive/Desktop/CPAN%20web%20dev/Lab/table_of_contents.html" width="600"
+        height="400"
+    </iframe>
+
+    <h2>Cat Introduce</h2>
+    <iframe> src="file:///C:/Users/fayec/OneDrive/Desktop/CPAN%20web%20dev/Lab/multimedia_blog_post.html" width="600"
+        height="400"
+    </iframe><br><br>
+
+    <button type="myfirstblog"
+        onclick="file:///C:/Users/fayec/OneDrive/Desktop/CPAN%20web%20dev/Lab/blog_layout.html">My First
+        Blog</button>
+
+</body>
+
+</html>
